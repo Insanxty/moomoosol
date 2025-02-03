@@ -1,6 +1,6 @@
 # moomoosol
 The only python bot for your cashgrab needs.
-
+This was a solana memecoin project and i had this domain so i just turned it into this project
 
 # what is this bot?
 This bot allows you to check details about your cashgrab without the need of opening your roblox.
