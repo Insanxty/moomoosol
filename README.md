@@ -32,9 +32,8 @@ Since the bot uses selenium, it just opens an invisible browser, and it navigate
 # Want to contribute?
   - Msg me on telegram @Ixsanity
 # Security
-  - All data is cached on your computer
+  - All data is cached on your computer 
   - For now the bot will be open sourced
-  - 
     
 
 
