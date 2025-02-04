@@ -28,12 +28,14 @@ Since the bot uses selenium, it just opens an invisible browser, and it navigate
 
 # Release date
   - Around Feb 10th
-
 # Want to contribute?
   - Msg me on telegram @Ixsanity
 # Security
   - All data is cached on your computer 
   - For now the bot will be open sourced
+# PNL image command result
+![image](https://github.com/user-attachments/assets/3809cc1a-e72d-4915-a58c-9c25f4b398e8)
+
     
 
 
